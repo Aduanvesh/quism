@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quism/static/css/main.a617e044.chunk.css",
+    "main.js": "/quism/static/js/main.dd5b0369.chunk.js",
+    "main.js.map": "/quism/static/js/main.dd5b0369.chunk.js.map",
+    "runtime-main.js": "/quism/static/js/runtime-main.2cd063ef.js",
+    "runtime-main.js.map": "/quism/static/js/runtime-main.2cd063ef.js.map",
+    "static/js/2.830b8ef9.chunk.js": "/quism/static/js/2.830b8ef9.chunk.js",
+    "static/js/2.830b8ef9.chunk.js.map": "/quism/static/js/2.830b8ef9.chunk.js.map",
+    "static/js/3.e21f5ddc.chunk.js": "/quism/static/js/3.e21f5ddc.chunk.js",
+    "static/js/3.e21f5ddc.chunk.js.map": "/quism/static/js/3.e21f5ddc.chunk.js.map",
+    "index.html": "/quism/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/quism/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.830b8ef9.chunk.js.LICENSE.txt": "/quism/static/js/2.830b8ef9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/quism/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cd063ef.js",
+    "static/js/2.830b8ef9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.dd5b0369.chunk.js"
+  ]
+}
